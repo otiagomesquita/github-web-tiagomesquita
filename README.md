@@ -8,7 +8,7 @@ Trabalho com o objetivo de ilustrar um dashbpord para um site fictício
 <img width="1222" height="677" alt="image" src="https://github.com/user-attachments/assets/a87fac73-2a8b-4250-9b6c-8604f433fab6" />
 https://centropaulasouza.sharepoint.com/:b:/r/sites/InformticaAplicadaaLogstica/Student%20Work/Working%20files/TIAGO%20RAFAEL%20MESQUITA%20DE%20JESUS/Atividade%20Avaliativa%2001/Perfil.pdf?csf=1&web=1&e=eOpYM4
 
-## (12/03) Despesa e montagem de gráfico no excel
+## (12/03) Despesa e montagem de gráfico no excel ALTERAR
 Criação de gráficos em relação a dados abertos da prefeitura de São José dos Campos
 <img width="1189" height="557" alt="image" src="https://github.com/user-attachments/assets/f2171eee-e4db-4fde-ae12-b363d83f33c3" />
 

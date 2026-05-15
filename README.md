@@ -52,6 +52,10 @@ Utilizando as ferramentas do PowerBI para criar um Dashboard interativo sobre da
 
 <img width="1918" height="1165" alt="image" src="https://github.com/user-attachments/assets/5c561f41-6237-4816-b1ad-f9777937c9e3" />
 
-
-
 https://colab.research.google.com/drive/1QMRHaLTTmuCJYvgjr6uPcTPSX7WeMpC1?usp=sharing
+
+## (14/05) Aula sobre Excel e Collab
+
+<img width="1262" height="847" alt="image" src="https://github.com/user-attachments/assets/d6db9ce2-25a9-4923-b5fa-4594074c1bf0" />
+
+https://colab.research.google.com/drive/1_ffqpO7UOn4Y20srf--gz-OXx2nMOHka?usp=sharing

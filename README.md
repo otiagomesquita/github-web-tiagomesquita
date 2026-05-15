@@ -48,5 +48,4 @@ Utilizando as ferramentas do PowerBI para criar um Dashboard interativo sobre da
 
 
 
-
 https://colab.research.google.com/drive/1QMRHaLTTmuCJYvgjr6uPcTPSX7WeMpC1?usp=sharing

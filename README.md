@@ -41,3 +41,12 @@ Usando dados abertos de São Paulo para criar três visuais da tabela através d
 
 Utilizando as ferramentas do PowerBI para criar um Dashboard interativo sobre dados abertos de São Paulo
 <img width="1314" height="737" alt="image" src="https://github.com/user-attachments/assets/41fba0e4-1aca-4fc5-9214-2d6fc1aab8b9" />
+
+## Aula sobre Python
+
+<img width="1918" height="1165" alt="image" src="https://github.com/user-attachments/assets/5c561f41-6237-4816-b1ad-f9777937c9e3" />
+
+
+
+
+https://colab.research.google.com/drive/1QMRHaLTTmuCJYvgjr6uPcTPSX7WeMpC1?usp=sharing

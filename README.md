@@ -1,7 +1,7 @@
 # github-web-tiagomesquita
 
-# Informatica
-Atividades realizadas na disciplina de informática aplicada à Logística.
+# Informatica Aplicada à Logística
+Fatec SJC - 1ª Semestre 
 
 ## (19/02) Introdução ao conceito de Dashbord e trabalho em equipe
 Trabalho com o objetivo de ilustrar um dashbpord para um site fictício 

@@ -7,12 +7,21 @@ Atividades realizadas na disciplina de informática aplicada à Logística.
 Trabalho com o objetivo de ilustrar um dashbpord para um site fictício 
 <img width="1222" height="677" alt="image" src="https://github.com/user-attachments/assets/a87fac73-2a8b-4250-9b6c-8604f433fab6" />
 https://centropaulasouza.sharepoint.com/:b:/r/sites/InformticaAplicadaaLogstica/Student%20Work/Working%20files/TIAGO%20RAFAEL%20MESQUITA%20DE%20JESUS/Atividade%20Avaliativa%2001/Perfil.pdf?csf=1&web=1&e=eOpYM4
+https://canva.link/1l9arvihquxl9hx
 
-8" alt="image" src="https://github.com/user-attachments/assets/b40e9af4-aedc-4e78-9992-5e30ce52085c" />
+## (07/04) Certificado de Excel Básico - Fundação Bradesco
+<img width="1145" height="666" alt="image" src="https://github.com/user-attachments/assets/4e743b63-208d-4963-84c7-d4bb3b86a0c2" />
+https://www.ev.org.br/cursos/microsoft-excel-2016-basico.
+
+## (17/04) Atividade de Excel 
+<img width="836" height="603" alt="image" src="https://github.com/user-attachments/assets/aea544a7-73e3-4c4a-8d65-27b6ed86c39b" />
+
 
 ## (23/04) Aula de PowerBI
 Usando dados abertos de São Paulo para criar um visual da tabela através do PowerBI
 <img width="1156" height="651" alt="image" src="https://github.com/user-attachments/assets/3f53cc17-fd69-492e-b5e5-4c953824d84d" />
+
+
 
 ## (30/04) Aula de PowerBI
 Usando dados abertos de São Paulo para criar três visuais da tabela através do PowerBI

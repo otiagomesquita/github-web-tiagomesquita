@@ -49,3 +49,13 @@ https://colab.research.google.com/drive/1QMRHaLTTmuCJYvgjr6uPcTPSX7WeMpC1?usp=sh
 <img width="1262" height="847" alt="image" src="https://github.com/user-attachments/assets/d6db9ce2-25a9-4923-b5fa-4594074c1bf0" />
 
 https://colab.research.google.com/drive/1_ffqpO7UOn4Y20srf--gz-OXx2nMOHka?usp=sharing
+
+## (28/05) Avaliação
+
+<img width="1117" height="766" alt="image" src="https://github.com/user-attachments/assets/8a57660e-6a44-4d05-aad4-78110bf47dfe" />
+
+
+
+
+
+

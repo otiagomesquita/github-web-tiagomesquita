@@ -50,6 +50,10 @@ https://colab.research.google.com/drive/1QMRHaLTTmuCJYvgjr6uPcTPSX7WeMpC1?usp=sh
 
 https://colab.research.google.com/drive/1_ffqpO7UOn4Y20srf--gz-OXx2nMOHka?usp=sharing
 
+## (22/05) Aula sobre Power BI
+Criação de Dashboard interativo comparando a venda de cerveja e sorvetes de acordo com a temperatura
+<img width="1268" height="737" alt="image" src="https://github.com/user-attachments/assets/454a399b-21df-46e0-ac7e-3b143e2e1468" />
+
 ## (28/05) Avaliação
 
 <img width="1117" height="766" alt="image" src="https://github.com/user-attachments/assets/8a57660e-6a44-4d05-aad4-78110bf47dfe" />
